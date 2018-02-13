@@ -2,11 +2,11 @@
 
 # Requirements:
 
-  - [Connector/ODBC] (http://dev.mysql.com/downloads/connector/odbc/) 
+  - [Connector/ODBC](http://dev.mysql.com/downloads/connector/odbc/) 
   
-  - [SWI-Prolog] (http://www.swi-prolog.org/)
+  - [SWI-Prolog](http://www.swi-prolog.org/)
   
-  - Database(optional). If u want to save your current position and stats u should install it. I have used [XAMPP] with MariaDB:        (https://www.apachefriends.org/index.html)
+  - Database(optional). If u want to save your current position and stats u should install it. I have used [XAMPP](https://www.apachefriends.org/index.html) with MariaDB:        
  
 # Database setup:
 
