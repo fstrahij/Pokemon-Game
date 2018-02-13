@@ -16,7 +16,7 @@
 
 # List of predicates: 
 | Predicate | Description |
-| --------- | ----------- |
+| :-------: | :---------: |
 | start | initialize new window |
 | uzmi(O) | get object O into inventory. Object O can be *poke_lopta*(pokeball) or *pokedex* |
 | idi(X) | go onto location X |
