@@ -9,6 +9,11 @@
   - Database(optional). If u want to save your current position and stats u should install it. I have used [XAMPP](https://www.apachefriends.org/index.html) with MariaDB:        
  
 # Database setup:
+  1. download and install ODBC connector
+  2. go to ODBC Data Sources -> Add -> MySQL ODBC 5.3 Unicode Driver
+  3. set Database: *bdprolog* 
+  4. set user and password if u need them to connect to database
+  
 
 # Game setup:
  - put pictures in your SWI-Prolog instalation folder(\swipl\xpce\bitmaps)
