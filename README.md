@@ -15,16 +15,17 @@
  - start pokemon.pl
 
 # List of predicates: 
-|Predicate|Description|
-|start|initialize new window|
-|uzmi(O)|get object O into inventory. Object O can be *poke_lopta*(pokeball) or *pokedex*|
-|idi(X)|go onto location X|
-|analiza_pokemona(P)|analize pokemon P with pokedex|
-|zatvori_pokedex|close pokedex|
-|uhvati_pokemona(P)|get pokemon P into invetory. P is pokemon name|
-|odabir_pokemona(P1, V)|P1 is pokemon in inventory. V is type of attack, can be *obicni*(regular) or *posebni*(special)|
-|spremi|save location and stats into database|
-|ucitaj|get saved location and stats from database|
+| Predicate | Description |
+| --------- | ----------- |
+| start | initialize new window |
+| uzmi(O) | get object O into inventory. Object O can be *poke_lopta*(pokeball) or *pokedex* |
+| idi(X) | go onto location X |
+| analiza_pokemona(P) | analize pokemon P with pokedex |
+| zatvori_pokedex | close pokedex |
+| uhvati_pokemona(P) | get pokemon P into invetory. P is pokemon name |
+| odabir_pokemona(P1, V) | P1 is pokemon in inventory. V is type of attack, can be *obicni*(regular) or *posebni*(special) |
+| spremi | save location and stats into database |
+| ucitaj | get saved location and stats from database |
 
 # List of locations:
   - kuca
