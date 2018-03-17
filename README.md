@@ -24,7 +24,7 @@
 | Predicate | Description |
 | :-------- | :---------- |
 | start | initialize new window |
-| uzmi(O) | get object O into inventory. Object O can be *poke_lopta*(pokeball) or *pokedex* |
+| uzmi(O) | get object O into inventory. Object O can be *poke_lopta*(eng. pokeball) or *pokedex* |
 | idi(X) | go onto location X |
 | analiza_pokemona(P) | analize pokemon P with pokedex |
 | zatvori_pokedex | close pokedex |
