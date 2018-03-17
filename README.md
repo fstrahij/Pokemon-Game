@@ -17,7 +17,7 @@
   
 
 # Game setup:
- - put pictures in your SWI-Prolog instalation folder(\swipl\xpce\bitmaps)
+ - put images in your SWI-Prolog instalation folder(\swipl\xpce\bitmaps)
  - start pokemon.pl
 
 # List of predicates: 
