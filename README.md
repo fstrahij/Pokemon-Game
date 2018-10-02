@@ -1,5 +1,5 @@
 # Pokemon-game-prolog
-  Project on collague *Faculty of organisation and informatics in Varaždin* on curse *Logical Programming*.
+  Project on college *Faculty of organisation and informatics in Varaždin* on curse *Logical Programming*.
 
 # Requirements:
 
