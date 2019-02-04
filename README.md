@@ -42,3 +42,5 @@
   - elektricni_svijet
   - dvorana
   
+ # Screenshoots:
+  ![ScreenShot](https://github.com/filip2893/Pokemon-game-prolog/tree/master/screenshoots/1.jpg)
