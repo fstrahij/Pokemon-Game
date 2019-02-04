@@ -43,5 +43,14 @@
   - dvorana
   
  # Screenshoots:
-  ![image](https://github.com/filip2893/Pokemon-game-prolog/tree/master/screenshoots/1.jpg)
-  <img src="https://github.com/filip2893/Pokemon-game-prolog/tree/master/screenshoots/1.jpg" width="350" title="hover text">
+ <p float="left">
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/1.jpg" alt="alt text" width="250" height="250">
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/2.jpg" alt="alt text" width="250" height="250">
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/3.jpg" alt="alt text" width="250" height="250">
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/4.jpg" alt="alt text" width="250" height="250">
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/5.jpg" alt="alt text" width="250" height="250">
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/5_1.jpg" alt="alt text" width="250" height="250"> 
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/5_2.jpg" alt="alt text" width="250" height="250">
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/6.jpg" alt="alt text" width="250" height="250">
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/blob/master/screenshoots/7.jpg" alt="alt text" width="250" height="250">
+  </p>
