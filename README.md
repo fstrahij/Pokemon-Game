@@ -5,7 +5,7 @@
 
   - [Connector/ODBC](http://dev.mysql.com/downloads/connector/odbc/) 
   
-  - [SWI-Prolog](http://www.swi-prolog.org/)
+  - [SWI-Prolog](http://www.swi-prolog.org/download/stable?show=all)(In this project has been used 32 bit SWI-Prolog 7.2.0) 
   
   - Database(optional). If u want to save your current position and stats u should install it. I have used [XAMPP](https://www.apachefriends.org/index.html) with MariaDB:        
  
