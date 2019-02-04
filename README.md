@@ -44,3 +44,4 @@
   
  # Screenshoots:
   ![image](https://github.com/filip2893/Pokemon-game-prolog/tree/master/screenshoots/1.jpg)
+  <img src="https://github.com/filip2893/Pokemon-game-prolog/tree/master/screenshoots/1.jpg" width="350" title="hover text">
