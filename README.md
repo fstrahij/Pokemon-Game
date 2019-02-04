@@ -43,4 +43,4 @@
   - dvorana
   
  # Screenshoots:
-  ![ScreenShot](https://github.com/filip2893/Pokemon-game-prolog/tree/master/screenshoots/1.jpg)
+  ![image](https://github.com/filip2893/Pokemon-game-prolog/tree/master/screenshoots/1.jpg)
